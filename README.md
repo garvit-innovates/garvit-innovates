@@ -76,7 +76,7 @@ Interested in **Full Stack Development, Backend Engineering, and AI-powered web 
 # 📫 Let's Connect
 
 📧 Email: garvitchugh.innovates.it@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/garvitchugh  
+💼 LinkedIn: https://www.linkedin.com/in/garvitchugh01  
 💻 GitHub: https://github.com/garvit-innovates
 
 
